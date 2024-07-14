@@ -1,0 +1,152 @@
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-4: write 1
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-6: insert 0insert text
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-7: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-2: write 2
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-3: write 0
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-1: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-5: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-4 completed write operation
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-2 completed write operation
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-7 completed read operation
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-3 completed write operation
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-5 completed read operation
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-1 completed read operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-6: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-5: write 2
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-4: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-3: write 0
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-2: insert 0 inserted text
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-1: write 1
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-7: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-6 completed read operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-5 completed write operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-4 completed read operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-3 completed write operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler insertToFile
+INFO: pool-1-thread-2 completed insert operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-1 completed write operation
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-7 completed read operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-7: edit 1 new line
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-6: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-3: insert 0 inserted text
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-2: write 0
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-8: write 2
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-5: write 1
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-4: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-1: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler editFile
+INFO: pool-1-thread-7 completed edit operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler insertToFile
+INFO: pool-1-thread-3 completed insert operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-6 completed read operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-2 completed write operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-8 completed write operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-5 completed write operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-4 completed read operation
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-1 completed read operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-7: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-6: edit 1 new line
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-9: write 2
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-4: write 0
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-1: write 1
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-8: delete
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-3: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-2: insert 0 inserted text
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler run
+INFO: Received from pool-1-thread-5: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-7 completed read operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler editFile
+INFO: pool-1-thread-6 completed edit operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-9 completed write operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-4 completed write operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler writeFile
+INFO: pool-1-thread-1 completed write operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler deleteFile
+INFO: pool-1-thread-8 completed delete operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler insertToFile
+INFO: pool-1-thread-2 completed insert operation
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.ClientHandler readFile
+INFO: pool-1-thread-5 completed read operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-8: write 2
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-2: write 0
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-3: insert 0 inserted text
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-5: write 1
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-4: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-6: edit 1 new line
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-7: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler run
+INFO: Received from pool-1-thread-1: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler writeFile
+INFO: pool-1-thread-8 completed write operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler insertToFile
+INFO: pool-1-thread-3 completed insert operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler writeFile
+INFO: pool-1-thread-2 completed write operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler writeFile
+INFO: pool-1-thread-5 completed write operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler editFile
+INFO: pool-1-thread-6 completed edit operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler readFile
+INFO: pool-1-thread-4 completed read operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler readFile
+INFO: pool-1-thread-7 completed read operation
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileHandler readFile
+INFO: pool-1-thread-1 completed read operation

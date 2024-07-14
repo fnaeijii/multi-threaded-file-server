@@ -1,0 +1,200 @@
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 2
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 0
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: insert 0insert text
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:35:28 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 1
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:43 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 0
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 2
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 1
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:36:50 AM ir.ac.kntu.FileClient run
+INFO: Sent: insert 0 inserted text
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: edit 1 new line
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 1
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: insert 0 inserted text
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 2
+Jul 14, 2024 6:38:27 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 0
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:40:56 AM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection reset
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 1
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: delete
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 0
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: insert 0 inserted text
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: edit 1 new line
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 6:41:02 AM ir.ac.kntu.FileClient run
+INFO: Sent: write 2
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:32 PM ir.ac.kntu.FileClient run
+INFO: Client exception: Connection refused: connect
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: edit 1 new line
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Connected to server
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: insert 0 inserted text
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: write 1
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: write 2
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: read
+Jul 14, 2024 12:59:49 PM ir.ac.kntu.FileClient run
+INFO: Sent: write 0
